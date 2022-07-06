@@ -17,3 +17,6 @@ Well we're just putting it on the forked sample repo of course.
 
 ### Copyright
 Bruv I swear if you touch this my lawyer will be on you so fast. 2022. thx.
+
+## How to Contribute
+Just let us know and we'll help you out :) anything :) thanks we love our community :) we are not depressed :) and also you are not depressed :)
