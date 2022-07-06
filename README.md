@@ -14,3 +14,6 @@ It's by Joel. He's modding it. He's really just typing nonsense text-- but that 
 ## Deployment
 
 Well we're just putting it on the forked sample repo of course. 
+
+### Copyright
+Bruv I swear if you touch this my lawyer will be on you so fast. 2022. thx.
