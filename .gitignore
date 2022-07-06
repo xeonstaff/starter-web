@@ -1,1 +1,5 @@
 *.js
+*.log
+.DS_Store
+.gitignore
+log/
